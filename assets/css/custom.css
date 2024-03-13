@@ -1,0 +1,20 @@
+.icon{
+    font-size: 20px;
+}
+
+.skill-card{
+    padding: 1% 5%;
+    margin: 2% 2%;
+    border-radius: 2px;
+    outline: solid 1px #dfe3e7;
+}
+
+.modal-subtitle{
+    color:#979797;
+}
+
+.modal-button-down{
+    position: absolute;
+    width: 100%;
+    bottom: 3%;
+}
